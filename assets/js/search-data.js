@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/kaito-houjho/repositories/";
           },
-        },{id: "nav-profile",
-          title: "profile",
+        },{id: "nav-profiles",
+          title: "profiles",
           description: "Who am I?",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/kaito-houjho/profile/";
+            window.location.href = "/kaito-houjho/profiles/";
           },
         },{id: "post-a-post-with-plotly-js",
         
