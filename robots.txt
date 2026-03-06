@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Amenbo1219.github.io/kaito-houjho/sitemap.xml
+Sitemap: https://amenbo1219.github.io/kaito-houjho/sitemap.xml
