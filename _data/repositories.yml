@@ -3,6 +3,6 @@ github_users:
 
 repo_description_lines_max: 2
 
-github_repos:
-  - Amenbo1219/SyntheAI
-  - Amenbo1219/ORE-NeRF
+# github_repos:
+#   - Amenbo1219/SyntheAI
+#   - Amenbo1219/ORE-NeRF
