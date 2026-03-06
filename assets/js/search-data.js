@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/kaito-houjho/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-homepage-released",
+          title: 'HomePage Released!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
