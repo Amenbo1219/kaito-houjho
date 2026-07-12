@@ -19,6 +19,10 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+projects:
+  enabled: true # includes a list of project items
+  limit: 3 # leave blank to include all the projects
 ---
 
 Kaito Houjho is an independent researcher. He received his B.S. and M.S. degrees in Computer Science from Tokyo University of Technology in 2024 and 2026, respectively. Until 2026, he was a member of the Computer Vision Laboratory at the same university. His research interests include computer vision, with a particular focus on image geometry and free-viewpoint image synthesis.
